@@ -1,0 +1,30 @@
+:host {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+  }
+
+  form {
+    padding: 50px;
+    background-color: #fff;
+  }
+
+  .error {
+    padding: 16px;
+    width: 265px;
+    color: white;
+    background-color: red;
+    text-align: justify;
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .title h1{
+    font-size: 18px;
+  }
+
+  #buttonFile {
+    width: 100%;
+  }
