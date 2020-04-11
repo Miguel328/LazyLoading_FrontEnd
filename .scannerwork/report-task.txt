@@ -1,0 +1,6 @@
+projectKey=lazyloadingfrontend
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=lazyloadingfrontend
+ceTaskId=AXFqO-__uExfKDy2t3Kc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXFqO-__uExfKDy2t3Kc
